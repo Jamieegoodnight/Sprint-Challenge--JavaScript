@@ -141,6 +141,7 @@ classification=()=>{
 }
 
 classification();
+animalNames.sort();
 
 console.log(animalNames);
 
