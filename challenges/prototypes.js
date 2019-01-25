@@ -13,12 +13,14 @@
 // because the latter is an array and .forEach is an array method. 
 
 
-
 // 3. What is closure?
 
 
 // Closure is a way to describe the bounds of lexical scope. It's a door (or, perhaps, a bouncer at
-// the door) that grants and denies access. It can be described as a cascade. 
+// the door) that grants and denies access. Access to the function/object above is granted to each 
+// subsequent function/object in the cascade, but these functions/objects deny access to the function/
+// objects above them. You could also say that these PROceding functions/objects don't know the 
+// PREceding functions/objects exist, or that they can't "see" them.
 
 
 // 4. Describe the four rules of the 'this' keyword.
