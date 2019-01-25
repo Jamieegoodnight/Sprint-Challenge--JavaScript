@@ -33,6 +33,8 @@
 
 
 // 5. Why do we need super() in an extended class?
+
+
 // "extends" is like someone pointing in the right direction and super is the physical act of moving
 // in that direction. It's an abstraction of a call function.
 
