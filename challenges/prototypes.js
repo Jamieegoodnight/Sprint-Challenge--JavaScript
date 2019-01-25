@@ -18,7 +18,7 @@
 
 
 // Closure is a way to describe the bounds of lexical scope. It's a door (or, perhaps, a bouncer at
-// the door) that accepts and denies access along. It can be described as a cascade. 
+// the door) that grants and denies access. It can be described as a cascade. 
 
 
 // 4. Describe the four rules of the 'this' keyword.
